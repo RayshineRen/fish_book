@@ -177,5 +177,22 @@
     }
   },
   "active": "7b79cc84d3ba9a1f",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "raw/code/fish-book-practices/《深度学习入门：基于Python的理论与实现》高清中文版.pdf",
+    "raw/code/fish-book-practices/uv.lock",
+    "raw/code/fish-book-practices/screen-short/卷积神经网络结构.png",
+    "raw/code/fish-book-practices/screen-short/5-17.png",
+    "raw/code/fish-book-practices/screen-short",
+    "raw/code/fish-book-practices/pyproject.toml",
+    "raw/code/fish-book-practices/models/sample_weight.pkl",
+    "raw/code/fish-book-practices/models",
+    "raw/code/fish-book-practices/libs/util.py",
+    "raw/code/fish-book-practices/libs/__init__.py",
+    "raw/code/fish-book-practices/libs/trainer.py",
+    "raw/code/fish-book-practices/libs/optimizer.py",
+    "raw/code/fish-book-practices/libs/network.py",
+    "raw/code/fish-book-practices/dataset/lena_gray.png",
+    "raw/code/fish-book-practices/dataset/lena.png",
+    "raw/code/fish-book-practices/README.md"
+  ]
 }
