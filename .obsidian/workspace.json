@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7fd1640516364f58",
+        "id": "78ffc3bd2d280bde",
         "type": "tabs",
         "children": [
           {
-            "id": "7b79cc84d3ba9a1f",
+            "id": "7274ceb7f3ab3842",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,8 +176,13 @@
       "bases:新建数据库": false
     }
   },
-  "active": "7b79cc84d3ba9a1f",
+  "active": "7274ceb7f3ab3842",
   "lastOpenFiles": [
+    "raw/docs/【零基础两个月速成】计算机考研复试项目准备-爱代码爱编程.md",
+    "raw/docs/深度学习入门-基于Python的理论与实现(鱼书)学习笔记-Chapter7-卷积神经网络.md",
+    "raw/docs/深度学习入门-基于Python的理论与实现(鱼书)学习笔记-Chapter5-误差反向传播.md",
+    "raw/docs/深度学习入门-基于Python的理论与实现(鱼书)学习笔记-Chapter4-神经网络的学习.md",
+    "raw/docs/深度学习入门-基于Python的理论与实现(鱼书)学习笔记-Chapter3-神经网络.md",
     "raw/code/fish-book-practices/《深度学习入门：基于Python的理论与实现》高清中文版.pdf",
     "raw/code/fish-book-practices/uv.lock",
     "raw/code/fish-book-practices/screen-short/卷积神经网络结构.png",
@@ -190,7 +195,6 @@
     "raw/code/fish-book-practices/libs/__init__.py",
     "raw/code/fish-book-practices/libs/trainer.py",
     "raw/code/fish-book-practices/libs/optimizer.py",
-    "raw/code/fish-book-practices/libs/network.py",
     "raw/code/fish-book-practices/dataset/lena_gray.png",
     "raw/code/fish-book-practices/dataset/lena.png",
     "raw/code/fish-book-practices/README.md"
