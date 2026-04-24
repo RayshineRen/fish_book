@@ -14,6 +14,7 @@ updated: 2026-04-24
 ## 顶层来源
 
 - `raw/docs/README.md`：说明 `raw/docs/` 用于存放鱼书相关文档。
+- `raw/docs/` 新增外部学习笔记，补充了第 3、4、5、7 章的解释性材料与一条“鱼书到项目实战”的学习路线。
 - `raw/pdfs/README.md`：说明 `raw/pdfs/` 用于存放鱼书 PDF。
 - `raw/code/fish-book-practices/README.md`：最完整的仓库说明，给出了项目结构、学习路径和示例文件用途。
 
@@ -40,3 +41,5 @@ updated: 2026-04-24
 - [[concepts/鱼书代码架构|鱼书代码架构]]
 - [[summaries/fish-book-core-implementation|核心实现]]
 - [[summaries/fish-book-examples|示例与练习]]
+- [[summaries/fish-book-external-study-notes|外部学习笔记汇总]]
+- [[summaries/fish-book-to-yolov5-roadmap|鱼书到 YOLOv5 的实践路径]]

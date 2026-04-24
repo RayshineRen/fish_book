@@ -49,6 +49,8 @@ updated: 2026-04-24
 - [[summaries/fish-book-repo-overview|仓库总览]]
 - [[summaries/fish-book-core-implementation|核心实现]]
 - [[summaries/fish-book-examples|示例与练习]]
+- [[summaries/fish-book-external-study-notes|外部学习笔记汇总]]
+- [[summaries/fish-book-to-yolov5-roadmap|鱼书到 YOLOv5 的实践路径]]
 
 ## 导航建议
 
@@ -60,4 +62,6 @@ updated: 2026-04-24
 
 - 已覆盖 `raw/pdfs/fish-book.pdf` 的章节骨架与主题。
 - 已覆盖 `raw/code/fish-book-practices/` 的 README、核心库、示例脚本和主要 notebook。
+- 已覆盖 `raw/docs/` 新增的 Chapter 3/4/5/7 学习笔记，并把其中的解释性内容回填到对应概念页。
+- 已覆盖 `raw/docs/` 中“鱼书 -> YOLOv5 -> 复试包装”的实践路线，并作为外围实践材料整理。
 - 第 8 章“深度学习应用与未来”在 `raw/code/` 中没有对应完整实现，目前只保留为书籍层面的主题线索。
